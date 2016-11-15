@@ -1,0 +1,2 @@
+Spinning loader: http://www.w3schools.com/howto/howto_css_loader.asp
+Lots of other loaders: https://365webresources.com/10-best-pure-css-loading-spinners-front-end-developers/

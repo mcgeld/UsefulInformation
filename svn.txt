@@ -1,0 +1,11 @@
+To review past commits/messages:
+    'svn log'
+
+To checkout a specific commit:
+    'svn checkout -r ####'
+
+To checkout a previous revision:
+    'svn log'
+        Gets all the previous commits and their messages
+    'svn checkout -r ####'
+        Checks out the commit specified by the id passed in (from the log)

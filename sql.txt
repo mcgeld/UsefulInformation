@@ -1,0 +1,2 @@
+Is it better to select before join to reduce working set?
+YES: http://stackoverflow.com/a/10619519/6749771
